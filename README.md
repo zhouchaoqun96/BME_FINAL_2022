@@ -4,4 +4,4 @@ automatic cochlea micro ct-scan segmentation via deep learnning
 The main neural network training code is on kaggle notebook with link:
 https://www.kaggle.com/code/chaoqunzhou/dlinbmi-bme-final-project-new
 
-the post-pocessing.ipynb file predicts the whole cochlea segmentation and reconstruct it into nifti file
+Run the Result_postprocessing.ipynb file to predict the whole cochlea segmentation and reconstruct it into nifti file
